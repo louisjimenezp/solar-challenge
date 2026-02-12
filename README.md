@@ -2,6 +2,8 @@
 
 > **Technical Challenge Submission**
 > A conversational AI platform with multi-provider routing, persistent memory, and bidirectional transport architecture.
+>
+> **Built on [Solar AI OS](https://github.com/Uhorizon-AI/Solar)** - An open-source AI operating system
 
 ---
 
@@ -130,7 +132,7 @@ This transforms generic AI into a **domain-aware assistant**.
 ## 🎬 Demo
 
 ### Live Demo
-[Loom Video Link] *(will be added after recording)*
+[Watch Demo Video](https://www.loom.com/share/d8d360c2fe20414cb4bd3e3c138a0e3e)
 
 ### Screenshots
 *Example Telegram conversation:*
@@ -202,10 +204,10 @@ Send a message to your Telegram bot. You should receive an AI-powered response w
 
 ### What Went Well
 
-✅ **Local-first architecture** - No vendor lock-in, full data ownership
-✅ **Multi-provider routing** - Real-world reliability and cost optimization
-✅ **Conversational UX** - Users stay in their existing tools (Telegram)
-✅ **Modular design** - Skills are reusable, channels are pluggable
+- **Local-first architecture** - No vendor lock-in, full data ownership
+- **Multi-provider routing** - Real-world reliability and cost optimization
+- **Conversational UX** - Users stay in their existing tools (Telegram)
+- **Modular design** - Skills are reusable, channels are pluggable
 
 ### Trade-offs Made
 
@@ -278,18 +280,16 @@ solar/
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Link to Solar repo]
-- **Demo Video:** [Loom link]
-- **Live Telegram Bot:** `@your_bot_name` *(private for security)*
+- **GitHub Repository:** [louisjimenezp/solar-challenge](https://github.com/louisjimenezp/solar-challenge)
+- **Demo Video:** [Watch on Loom](https://www.loom.com/share/d8d360c2fe20414cb4bd3e3c138a0e3e)
 
 ---
 
 ## 📝 Notes
 
 - **Time invested:** ~6 hours (setup 2h, architecture 2h, documentation 2h)
-- **AI providers tested:** Claude Sonnet 4.5, OpenAI GPT-4
-- **Conversation turns stored:** 150+ across testing
+- **AI providers tested:** Claude Opus 4.6, OpenAI GPT-5.3-Codex
 
 ---
 
-**Built with ❤️ for the [Company Name] Technical Challenge**
+**Built with ❤️ for the Indigo AI Technical Challenge**

@@ -31,3 +31,6 @@ runtime/
 .idea/
 *.swp
 *.swo
+
+# Others
+SCRIPT.md
