@@ -1,0 +1,33 @@
+# Environment and secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+runtime/
+*.jsonl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
