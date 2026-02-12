@@ -1,5 +1,11 @@
 # Planet Guidelines
 
+## Governance Delegation (Required)
+
+**This layer (planets/solar-challenge/AGENTS.md):**
+- **Authority:** Domain-specific governance for Solar technical challenge productization
+- **Delegates to:** `../../AGENTS.md` (root) for global orchestration
+
 ## Scope
 - Domain: Solar technical challenge productization.
 - In scope: challenge strategy, scope definition, implementation planning, deliverables (demo/repo/README), and decision logs specific to this challenge.
@@ -20,3 +26,18 @@
 - Deliverables:
 - Risks:
 - Next steps:
+
+## Planet Sync Rule (Optional)
+
+If `agents/`, `commands/`, or `skills/` are created in this planet:
+
+**Sync command:**
+```bash
+bash ../../core/scripts/sync-clients.sh
+```
+
+**What it does:**
+- Syncs planet resources to AI clients
+- Auto-applies `solar-challenge:<name>` prefix on conflicts (npm-style)
+
+See `../../AGENTS.md` for full protocol details.
