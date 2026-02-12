@@ -138,16 +138,16 @@ This transforms generic AI into a **domain-aware assistant**.
 *Example Telegram conversation:*
 
 ```
-User: "Help me draft an email to Jessica confirming the challenge deadline"
+User: "Need to migrate my existing repos into Solar"
 
-Solar: "Here's a professional response:
----
-Hi Jessica,
-Thanks for the details! I've reviewed the challenge and I'm excited to get started.
-I'll have the challenge completed by end of day tomorrow.
-Best, Louis
----
-Want me to adjust the tone or timing?"
+Solar: "I'll help you migrate safely. Suggested approach:
+
+1. Map each repo to core/sun/planets based on purpose
+2. Create AGENTS.md per planet with governance rules
+3. Migrate in prioritized batches (critical → automation → cleanup)
+4. Validate end-to-end flow per planet
+
+Which 3 repos should we start with?"
 ```
 
 ---
