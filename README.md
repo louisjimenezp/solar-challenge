@@ -202,10 +202,10 @@ Send a message to your Telegram bot. You should receive an AI-powered response w
 
 ### What Went Well
 
-✅ **Local-first architecture** - No vendor lock-in, full data ownership
-✅ **Multi-provider routing** - Real-world reliability and cost optimization
-✅ **Conversational UX** - Users stay in their existing tools (Telegram)
-✅ **Modular design** - Skills are reusable, channels are pluggable
+- **Local-first architecture** - No vendor lock-in, full data ownership
+- **Multi-provider routing** - Real-world reliability and cost optimization
+- **Conversational UX** - Users stay in their existing tools (Telegram)
+- **Modular design** - Skills are reusable, channels are pluggable
 
 ### Trade-offs Made
 
